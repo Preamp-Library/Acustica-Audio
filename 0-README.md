@@ -31,4 +31,17 @@ If there are more preamps in the plug in, then please include which number pream
 
 Send snapshots to this email:   preamp-library@protonmail.com
 
+
+To download the library:
+1. 
+Go to this page:  https://github.com/Preamp-Library/Acustica-Audio 
+
+2.
+Push the green botton in top right corner called "clone or download".
+
+3. 
+Select "Download as Zip".
+
+
 Thanks, I hope you will enjoy the library.
+
