@@ -1,7 +1,7 @@
 Acustica-Audio preamp library!
 
 This is a library that contains snapshots of Acustica Audio plug ins preamp section. The idea is to collect them all, 
-so we can use this library to look at, before you choose a preamp, so we can all make educated choices.
+so you can use this library to look at, before you choose a preamp, so you can all make educated choices:
 
 Acustica Audio webside:       http://www.acustica-audio.com
 
@@ -13,6 +13,7 @@ Plug In Doctor webside:   https://ddmf.eu/plugindoctor/
 
 Contributing to the library:
 If you want to contribute to the library, you can. The more snapshots we have, the better the library is.
+
 
 For now, contributions can be made by doing the following. (Contribution method will change soon):
 
@@ -27,4 +28,7 @@ Push the small camera in top right corner of Plug In Doctor, to save the snapsho
 Send the .png file to the email below, with clear information about which plug in the snapshot is from.
 If there are more preamps in the plug in, then please include which number preamp it is.
 
+
 Send snapshots to this email:   preamp-library@protonmail.com
+
+Thanks, I hope you will enjoy the library.
