@@ -51,5 +51,5 @@ The unoffical list of which plug ins Acustica Audio plug ins are sampled from:
 https://justpaste.it/AcusticaAudioAcquaMasterList
 
 
-Thanks, I hope you will enjoy the library.
+Thanks, I hope you will contribute and enjoy the library.
 
