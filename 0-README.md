@@ -18,7 +18,7 @@ If you want to contribute to the library, you can. The more snapshots we have, t
 For now, contributions can be made by doing the following. (Contribution method will change):
 
 1. 
-Open Plug in Doctor and make sure that it is set to a sample rate of 44100(in setting menu in top right corner).
+Open Plug in Doctor and make sure that it's set to a sample rate of 44100(in setting menu in top right corner).
 
 2. 
 Load the Acustica Audio plugin, that you want to analyze and make sure that only the preamp is engaged in the plug in.
