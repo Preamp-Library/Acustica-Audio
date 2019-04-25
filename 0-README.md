@@ -19,7 +19,7 @@ If you want to contribute to the library, you can. The more snapshots we have, t
 For now, contributions can be made by doing the following. (Contribution method will change):
 
 1. 
-Open Plug in Doctor and make sure that it's set to a sample rate of 44100(in setting menu in top right corner).
+Open Plug In Doctor and make sure that it's set to a sample rate of 44100(in setting menu in top right corner).
 
 2. 
 Load the Acustica Audio plugin, that you want to analyze and make sure that only the preamp is engaged in the plug in.
@@ -28,11 +28,8 @@ Load the Acustica Audio plugin, that you want to analyze and make sure that only
 Push the small camera in top right corner of Plug In Doctor, to save the snapshot to disc.
 
 4. 
-Send the .png file to the email below, with clear information about which plug in the snapshot is from.
-If there are more preamps in the same plug in, then please include which number preamp it is.
-
-
-Send snapshots to this email:   preamp-library@protonmail.com
+Send the snapshot (.png) file to this email: preamp-library@protonmail.com , with clear information about 
+which plug in the snapshot is from. If there are more preamps in the same plug in, then please include which number preamp it is.
 
 
 To download the library:
