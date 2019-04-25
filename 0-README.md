@@ -1,7 +1,7 @@
 Acustica-Audio preamp library!
 
-This is a library that contains snapshots of Acustica Audio plug ins preamp section. The idea is to collect them all, 
-so you can use this library to look at, before you choose a preamp, so you can all make educated choices:
+This is a library that contains snapshots of Acustica Audio plug ins preamps. The idea is to collect them all, 
+so you can use this library to look at, before you choose a preamp, so you can make educated choices:
 
 Acustica Audio webside:       http://www.acustica-audio.com
 
