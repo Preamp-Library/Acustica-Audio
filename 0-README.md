@@ -44,5 +44,10 @@ Push the green botton in top right corner called "clone or download".
 Select "Download as Zip".
 
 
+The unoffical list of which plug ins Acustica Audio plug ins are sampled from:
+
+https://justpaste.it/AcusticaAudioAcquaMasterList
+
+
 Thanks, I hope you will enjoy the library.
 
